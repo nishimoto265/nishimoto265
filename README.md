@@ -25,8 +25,6 @@
 
 ### 1. [gcp_setting_acr](https://github.com/nishimoto265/gcp_setting_acr)
 
-<img src="ここにgcp_setting_acrのスクリーンショット画像URLを挿入" alt="gcp_setting_acr screenshot" width="400"/>
-
 **概要:** スマートフォンでの通話やスクリーンショットをトリガーに、一連のデータ処理を自動化するバックエンドシステムです。
 
 **主な機能:**
@@ -53,7 +51,7 @@
 * 時系列でのデータ表示やキーワード検索機能により、必要な情報へ素早くアクセス。
 * レスポンシブデザインにより、スマートフォンとPCのどちらからでも快適に利用可能。
 
-**開発環境 (例):** React, Next.js, Firebase (フロントエンドの技術に合わせて変更してください)
+**開発環境 (例):** React, Typescript, Firebase 
 
 ---
 
