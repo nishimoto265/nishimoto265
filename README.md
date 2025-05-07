@@ -17,6 +17,45 @@
 <a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>
 
+# Featured Projects 🚀
+
+ここでは、私が特に力を入れているプロジェクトを紹介します。
+
+---
+
+### 1. [gcp_setting_acr](https://github.com/nishimoto265/gcp_setting_acr)
+
+<img src="ここにgcp_setting_acrのスクリーンショット画像URLを挿入" alt="gcp_setting_acr screenshot" width="400"/>
+
+**概要:** スマートフォンでの通話やスクリーンショットをトリガーに、一連のデータ処理を自動化するバックエンドシステムです。
+
+**主な機能:**
+* **通話記録の自動処理:**
+    * 通話録音ファイルをGoogle Driveへ自動アップロード。
+    * アップロードを検知し、Whisper APIを利用して高精度な文字起こしを実施。
+    * LangChainを活用し、文字起こし結果から要約の生成、電話番号などの重要情報を抽出。
+    * 処理結果をFirebaseに保存し、後続のアプリケーションで利用可能にします。
+* **スクリーンショットの自動処理:**
+    * 撮影されたスクリーンショットをGoogle Driveへ自動転送。
+    * 画像から関連データを抽出し、記録します。（例：テキスト認識、オブジェクト検出など）
+
+**使用技術:** Python, Google Cloud Platform (GCP), Google Drive API, Whisper API, LangChain, Firebase
+
+---
+
+### 2. [ACR-app](https://github.com/nishimoto265/ACR-app)
+
+<img src="ここにACR-appのスクリーンショット画像URLを挿入" alt="ACR-app screenshot" width="400"/>
+
+**概要:** 上記`gcp_setting_acr`プロジェクトによってFirebaseに保存された通話記録（文字起こし、要約、抽出情報を含む）やスクリーンショットデータを、スマートフォンおよびWebブラウザから直感的に閲覧・管理できるアプリケーションです。
+
+**主な特徴:**
+* 時系列でのデータ表示やキーワード検索機能により、必要な情報へ素早くアクセス。
+* レスポンシブデザインにより、スマートフォンとPCのどちらからでも快適に利用可能。
+
+**開発環境 (例):** React, Next.js, Firebase (フロントエンドの技術に合わせて変更してください)
+
+---
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
