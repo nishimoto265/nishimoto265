@@ -23,8 +23,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,firebase,react,next,github,vscode,docker,php,gcp" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 
 # AI Subscriptions
 - Claude
