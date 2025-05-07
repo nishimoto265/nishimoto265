@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋
-### Just 20 years old
+# A graduate student specializing in computer-vision research in Japan👋
+### Just 22 years old
 ### Feel free to contact me anytime!👍
 #
 ![nishimoto265's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark)
