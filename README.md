@@ -47,6 +47,27 @@
 
 ---
 
+### 3. [LabHM_new](https://github.com/nishimoto265/LabHM_new)
+
+**タイトル:** 研究室ホームページ Ver.2 (宮崎大学 情報処理システム研究室)
+
+**概要:** 宮崎大学 情報処理システム研究室の新しい公式ウェブサイトです。従来のPHPとJavaScriptで構築されたバージョンから、よりモダンな技術スタックを採用して開発されています。
+
+**デザイン:**
+* ウェブサイトのデザインは @remon-nomer66 によって作成されました。
+
+**実装:**
+* 実装は、このリポジトリの所有者（nishimoto265）が担当しています。
+
+**使用技術:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
+**今後の予定:**
+* SQLデータベースを導入し、コンテンツの更新を容易にする予定です。
+
+**旧バージョン情報:**
+* 旧ホームページリポジトリ: [nishimoto265/LabHM_old](https://github.com/nishimoto265/LabHM_old)
+* 旧ホームページURL: [https://www.cc.miyazaki-u.ac.jp/imagelab/home.php](https://www.cc.miyazaki-u.ac.jp/imagelab/home.php)
+
+---
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
