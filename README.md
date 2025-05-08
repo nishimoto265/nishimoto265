@@ -11,12 +11,6 @@
 [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
 
 
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-</p>
-
 # Featured Projects 🚀
 
 ここでは、私が特に力を入れているプロジェクトを紹介します。
@@ -42,8 +36,6 @@
 ---
 
 ### 2. [ACR-app](https://github.com/nishimoto265/ACR-app)
-
-<img src="ここにACR-appのスクリーンショット画像URLを挿入" alt="ACR-app screenshot" width="400"/>
 
 **概要:** 上記`gcp_setting_acr`プロジェクトによってFirebaseに保存された通話記録（文字起こし、要約、抽出情報を含む）やスクリーンショットデータを、スマートフォンおよびWebブラウザから直感的に閲覧・管理できるアプリケーションです。
 
