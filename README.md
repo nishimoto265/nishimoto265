@@ -51,7 +51,7 @@
 * 時系列でのデータ表示やキーワード検索機能により、必要な情報へ素早くアクセス。
 * レスポンシブデザインにより、スマートフォンとPCのどちらからでも快適に利用可能。
 
-**開発環境 :** React, Typescript, Firebase 
+**使用技術 :** React Native, TypeScript, React Native, Recoil, React Query, Firebase, Expo AV, react-native-track-playerSentry, RN, SDKJest, Detox
 
 ---
 
