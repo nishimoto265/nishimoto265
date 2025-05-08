@@ -29,7 +29,7 @@
     * 処理結果をFirebaseに保存し、後続のアプリケーションで利用可能にします。
 * **スクリーンショットの自動処理:**
     * 撮影されたスクリーンショットをGoogle Driveへ自動転送。
-    * 画像から関連データを抽出し、記録します。（例：テキスト認識、オブジェクト検出など）
+    * 画像から関連データを抽出し、記録します。
 
 **使用技術:** Python, Google Cloud Platform (GCP), Google Drive API, Whisper API, LangChain, Firebase
 
