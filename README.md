@@ -1,6 +1,11 @@
 # A graduate student specializing in computer-vision research in Japan👋
 ### Just 22 years old
 ### Feel free to contact me anytime!👍
+
+<a href="https://www.linkedin.com/in/%E5%A4%A7%E5%9C%B0-%E8%A5%BF%E6%9C%AC-977a00352/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>
+</a>
+
 #
 ![nishimoto265's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark)
 
@@ -8,9 +13,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishimoto265&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://www.linkedin.com/in/%E5%A4%A7%E5%9C%B0-%E8%A5%BF%E6%9C%AC-977a00352/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>
-</a>
 
 # Featured Projects 🚀
 
