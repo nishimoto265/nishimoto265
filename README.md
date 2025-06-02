@@ -62,7 +62,6 @@
 
 **旧バージョン情報:**
 * 旧ホームページリポジトリ: [nishimoto265/LabHM_old](https://github.com/nishimoto265/LabHM_old)
-* 旧ホームページURL: [https://www.cc.miyazaki-u.ac.jp/imagelab/home.php](https://www.cc.miyazaki-u.ac.jp/imagelab/home.php)
 
 ---
 
