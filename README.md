@@ -73,7 +73,7 @@
 
 
 # AI Subscriptions
-- Claude code,Claude code action
+- Claude code, Claude code action
 - ChatGPT pro
 - Gemini
 - Windsurf
