@@ -73,8 +73,8 @@
 
 
 # AI Subscriptions
-- Claude
-- ChatGPT
+- Claude code,Claude code action
+- ChatGPT pro
 - Gemini
 - Windsurf
 - Cursor
@@ -82,6 +82,9 @@
 - V0
 - Perplexity
 - GitHub Copilot
+- garileo
+- 神威
+
 
 # NOW TRAINING
 
