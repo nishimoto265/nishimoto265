@@ -53,6 +53,7 @@
 ### 3. [LabHM_new](https://github.com/nishimoto265/LabHM_new)
 
 **タイトル:** 研究室ホームページ Ver.2 (宮崎大学 情報処理システム研究室)
+* ホームページURL: [https://www.cc.miyazaki-u.ac.jp/imagelab/home.php](https://www.cc.miyazaki-u.ac.jp/imagelab/home.php)
 
 **概要:** 宮崎大学 情報処理システム研究室の新しい公式ウェブサイトです。従来のPHPとJavaScriptで構築されたバージョンから、よりモダンな技術スタックを採用して開発されています。
 
