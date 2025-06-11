@@ -7,7 +7,7 @@
 </a>
 
 #
-![nishimoto265's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark&v=1)
+![nishimoto265's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark&v=2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishimoto265&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishimoto265&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
