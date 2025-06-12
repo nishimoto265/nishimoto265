@@ -17,7 +17,7 @@
 ---
 
 ### 🤖 [Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication)
-**概要:** Claude Code CLI 同士を tmux 上で接続し、PRESIDENT→BOSS→WORKER へと指示が伝播・収束する階層型コミュニケーションをワンコマンドで体験できるデモ。:contentReference[oaicite:0]{index=0}
+**概要:** Claude Code CLI 同士を tmux 上で接続し、PRESIDENT→BOSS→WORKER へと指示が伝播・収束する階層型コミュニケーションをワンコマンドで体験できるデモ。
 
 **主な特徴:**
 * **Claude Code 間通信:** 役割ごとに分かれたペイン間でメッセージを自動リレーし、双方向フィードバックを可視化  
