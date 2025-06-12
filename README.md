@@ -16,24 +16,17 @@
 
 ---
 
-### 🤖 [auto_anotater](https://github.com/nishimoto265/auto_anotater)
-**概要:** 研究用の半自動アノテーションツール。コンピュータビジョン研究における画像データのアノテーション作業を効率化します。
+### 🤖 [Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication)
+**概要:** Claude Code CLI 同士を tmux 上で接続し、PRESIDENT→BOSS→WORKER へと指示が伝播・収束する階層型コミュニケーションをワンコマンドで体験できるデモ。:contentReference[oaicite:0]{index=0}
 
-**AI駆動型開発手法による実装:**
-このプロジェクトでは、複数のAIツールを戦略的に組み合わせた革新的な開発手法を採用しました：
+**主な特徴:**
+* **Claude Code 間通信:** 役割ごとに分かれたペイン間でメッセージを自動リレーし、双方向フィードバックを可視化  
+* **ワンコマンド起動:** `setup.sh` が 5 ペイン／2 セッションの tmux 環境を即時構築  
+* **一斉ブロードキャスト:** `agent-send.sh` で複数ワーカーへ高速に同報指示  
+* **Markdown 指示書:** `instructions/*.md` にタスクを書くだけで各エージェントが自律実行
 
-1. **Claude** - 全体の要件定義、システム構造決定
-2. **Cursor** - 細かい要件定義、テストケース作成  
-3. **Claude Code** - 16並列でテストケースに基づいたテストコード作成
-4. **Cursor** - 統合処理
-5. **Claude Code** - 16並列実装
-6. **Cursor** - 最終統合、仕上げ
-
-この手法により、従来の開発時間を大幅に短縮しつつ、高品質なコードを実現しています。
-
-**使用技術:** Python, OpenCV, PyQt/Tkinter, Machine Learning APIs
-
-**📹 デモ動画:** [LinkedIn投稿で開発過程とデモを見る](https://www.linkedin.com/posts/%E5%A4%A7%E5%9C%B0-%E8%A5%BF%E6%9C%AC-977a00352_im-strictly-defining-requirements-and-writing-activity-7335287602310168577-1H0e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgR3WsBAwWD1B6fNtqseYRMRuusJLHxhgA)
+**使用技術:** Bash, tmux, Claude Code CLI, Unix coreutils  
+**スター:** 190 ⭐（2025-06-12 時点）:contentReference[oaicite:1]{index=1}
 
 ---
 
