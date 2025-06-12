@@ -26,7 +26,7 @@
 * **Markdown 指示書:** `instructions/*.md` にタスクを書くだけで各エージェントが自律実行
 
 **使用技術:** Bash, tmux, Claude Code CLI, Unix coreutils  
-**スター:** 190 ⭐（2025-06-12 時点）:contentReference[oaicite:1]{index=1}
+**スター:** 190 ⭐（2025-06-12 時点）
 
 ---
 
