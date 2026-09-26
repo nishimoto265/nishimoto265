@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title description">
+  <title id="title">nishimoto265's GitHub stats</title>
+  <desc id="description">Snapshot from September 26, 2026: 524 stars, 1,475 authored commits, and 198 pull requests. Commit and pull request counts include repositories accessible to the owner.</desc>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="9" fill="#273849" stroke="#41b883" stroke-opacity="0.45" />
+  <text x="24" y="38" fill="#41b883" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19" font-weight="600">nishimoto265's GitHub Stats</text>
+  <text x="471" y="37" text-anchor="end" fill="#aab8c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">2026-09-26</text>
+  <path d="M24 55H471" stroke="#6c8090" stroke-opacity="0.5" />
+  <path d="M173 72V149M322 72V149" stroke="#6c8090" stroke-opacity="0.35" />
+  <g fill="#cbd6df" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">
+    <text x="24" y="91">Total stars</text>
+    <text x="190" y="91">Authored commits</text>
+    <text x="339" y="91">Pull requests</text>
+  </g>
+  <g fill="#ffffff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="29" font-weight="700">
+    <text x="24" y="132">524</text>
+    <text x="190" y="132">1,475</text>
+    <text x="339" y="132">198</text>
+  </g>
+  <text x="24" y="174" fill="#aab8c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10.5">Commits and PRs include private work visible to the owner.</text>
+</svg>
