@@ -32,50 +32,6 @@
 
 ---
 
-### 1. [gcp_setting_acr](https://github.com/nishimoto265/gcp_setting_acr)
-**概要:** スマートフォンでの通話やスクリーンショットをトリガーに、一連のデータ処理を自動化するバックエンドシステムです。
-
-**主な機能:**
-* **通話記録の自動処理:**
-    * 通話録音ファイルをGoogle Driveへ自動アップロード。
-    * アップロードを検知し、Whisper APIを利用して高精度な文字起こしを実施。
-    * LangChainを活用し、文字起こし結果から要約の生成、電話番号などの重要情報を抽出。
-    * 処理結果をFirebaseに保存し、後続のアプリケーションで利用可能にします。
-* **スクリーンショットの自動処理:**
-    * 撮影されたスクリーンショットをGoogle Driveへ自動転送。
-    * 画像から関連データを抽出し、記録します。
-
-**使用技術:** Python, Google Cloud Platform (GCP), Google Drive API, Whisper API, LangChain, Firebase
-
----
-
-### 2. [ACR-app](https://github.com/nishimoto265/ACR-app)
-**概要:** 上記`gcp_setting_acr`プロジェクトによってFirebaseに保存された通話記録（文字起こし、要約、抽出情報を含む）やスクリーンショットデータを、スマートフォンおよびWebブラウザから直感的に閲覧・管理できるアプリケーションです。
-
-**主な特徴:**
-* 時系列でのデータ表示やキーワード検索機能により、必要な情報へ素早くアクセス。
-* レスポンシブデザインにより、スマートフォンとPCのどちらからでも快適に利用可能。
-
-**使用技術:** React Native, TypeScript, React Native, Recoil, React Query, Firebase, Expo AV, react-native-track-player, Sentry RN SDK, Jest, Detox
-
----
-
-### 3. [LabHM_new](https://github.com/nishimoto265/LabHM_new)
-**タイトル:** 研究室ホームページ Ver.2 (宮崎大学 情報処理システム研究室)
-* ホームページURL: [https://www.cc.miyazaki-u.ac.jp/imagelab/home.php](https://www.cc.miyazaki-u.ac.jp/imagelab/home.php)
-
-**概要:** 宮崎大学 情報処理システム研究室の新しい公式ウェブサイトです。従来のPHPとJavaScriptで構築されたバージョンから、よりモダンな技術スタックを採用して開発されています。
-
-**使用技術:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
-
-**今後の予定:**
-* SQLデータベースを導入し、コンテンツの更新を容易にする予定です。
-
-**旧バージョン情報:**
-* 旧ホームページリポジトリ: [nishimoto265/LabHM_old](https://github.com/nishimoto265/LabHM_old)
-
----
-
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,firebase,react,next,github,vscode,docker,php,gcp" /> <br /><br />
 
