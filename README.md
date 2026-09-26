@@ -7,11 +7,11 @@
 </a>
 
 
-![nishimoto265's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark&v=2)
+![nishimoto265's GitHub stats](https://github-stats-extended.vercel.app/api?username=nishimoto265&show_icons=true&theme=vue-dark&v=2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishimoto265&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nishimoto265&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishimoto265&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=nishimoto265&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Featured Projects 🚀
 ここでは、私が特に力を入れているプロジェクトを紹介します。
